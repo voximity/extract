@@ -1,0 +1,1 @@
+-- I will not be releasing the source of the chat as I still use it in my latest games

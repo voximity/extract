@@ -1,0 +1,1 @@
+-- I will not be releasing this source, see Client/UserInterface/ClientChat.lua
